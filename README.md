@@ -2,9 +2,9 @@
 
 Senior Software Engineer focused on AI backend and ML platform work.
 
-At Shell I built generative AI systems for subsurface geological modeling in Python, working with asyncio, multiprocessing, pandas, NumPy and SciPy, and multi-agent LLM systems built with LangChain and LangGraph. Before Shell, I was an exploration manager and chief geo-data scientist in oil and gas, which is where the older geoscience code in this account comes from.
+I build generative AI systems for subsurface geological modeling in Python, working with asyncio, multiprocessing, pandas, NumPy and SciPy, and multi-agent LLM systems built with LangChain and LangGraph. Before that, I was an exploration manager and chief geo-data scientist in oil and gas, which is where the older geoscience code in this account comes from.
 
-My Shell work is confidential, so the public projects here are where I show how I build.
+Most of my professional work is confidential, so the public projects here are where I show how I build.
 
 ## Featured project
 
